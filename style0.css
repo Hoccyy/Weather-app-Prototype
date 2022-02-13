@@ -1,0 +1,51 @@
+/* Font for temperature */
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&display=swap');
+
+/* Font for other text */
+@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+
+/**/
+.weather-icon {
+    text-align: center;
+}
+
+.weath {
+    width: 160px;
+}
+
+.temperature-value {
+    font-family: 'Almarai', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.app-title {
+    color: white;
+    font-family: 'Almarai', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.temperature-description {
+    font-family: 'Almarai', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.location {
+    font-family: 'Almarai', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* background colouring */
+.weather-container {
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 44px;
+    margin-right: 44px;
+}
+
+.background-col {
+    background-color: rgb(34, 13, 54);
+}
